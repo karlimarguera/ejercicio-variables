@@ -13,6 +13,4 @@ Pasos:
 
 <br>PASOS SEGUIDOS:
 <br><br>
-<img src="./assets/img/Captura1.png">
-<img src="./assets/img/Captura2.png">
-<img src="./assets/img/Captura3.png">
+
